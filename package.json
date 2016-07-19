@@ -1,0 +1,21 @@
+{
+	"name": "hexo-readingtime",
+	"version": "1.0.0",
+	"description": "Adds estimated reading time to articles",
+	"main": "index",
+	"dependencies": {
+		"reading-time": "^1.0.2"
+	},
+	"keywords": [
+		"hexo",
+		"util",
+		"utilities"
+	],
+	"author": "Dennis Haulund Nielsen <dhni@nodes.dk>",
+	"license": "MIT",
+	"directories": {
+		"lib": "./lib"
+	},
+	"repository": "nodes-frontend/hexo-readingtime",
+	"homepage": "https://github.com/nodes-frontend/hexo-readingtime"
+}
