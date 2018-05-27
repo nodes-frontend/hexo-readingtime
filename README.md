@@ -1,3 +1,4 @@
+# ⛔️ [DEPRECATED] hexo-readingtime
 A plugin that provides a reading time estimate to your hexo posts (e.g. '8 min read'). It's a wrapper around the [reading-time module](https://github.com/ngryman/reading-time).
 
 ## Installation
